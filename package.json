@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc && vite build",
-    "preview": "vite preview"
+    "build": "vue-tsc && vite build ",
+    "preview": "vite preview",
+    "upload": "deploy.sh"
   },
   "dependencies": {
     "vue": "^3.2.45"
