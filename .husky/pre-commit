@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+pnpm nika-lint commit-file-scan
+pnpm nika-lint commit-file-scan
