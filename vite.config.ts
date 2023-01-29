@@ -7,6 +7,6 @@ export default defineConfig(({ command, mode, ssrBuild }) => {
 
   return {
     plugins: [vue()],
-    base: mode === 'development' ? '/' : '/'
+    base: mode === 'development' ? '/' : './'
   }
 })
