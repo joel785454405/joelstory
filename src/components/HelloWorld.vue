@@ -17,7 +17,7 @@ const count = ref(0);
       <code>components/HelloWorld.vue</code> to test HMR
     </p>
   </div>
-  <div>my name is lileilei234</div>
+  <div>my name is lileilei23456789</div>
   <p>
     Check out
     <a href="https://vuejs.org/guide/quick-start.html#local" target="_blank"
